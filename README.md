@@ -48,7 +48,7 @@ The dashboard logic and interface are contained in a single `page.tsx` file to k
 Clone the repository:
 
 ```bash
-git clone "copy the url"
+git clone ["copy the url"](https://github.com/KdanTechnies/nextjs-student-result-dashboard.git)
 ```
 
 Move into the project:
